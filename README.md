@@ -16,7 +16,7 @@ This project implements and evaluates multiple deep learning architectures for c
 - Siren
 - Street Music
 
-### Key Features
+## Key Features
 
 **Multiple Feature Representations**: Mel Spectrograms, MFCCs, and combined Mel+MFCC  
 **Architecture Comparison**: CNN vs MLP vs Ensemble  
